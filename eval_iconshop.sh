@@ -1,0 +1,2 @@
+python generate_test_set_iconshop.py --output results/IconShop/output --sketch_weight iconshop_checkpoints/epoch_100 --split test --csv_path .data/stage2_split.csv
+python eval_iconshop.py --svg_dir results/IconShop/output/test/keyword --csv_path .data/stage2_split.csv --out_dir results/IconShop/output

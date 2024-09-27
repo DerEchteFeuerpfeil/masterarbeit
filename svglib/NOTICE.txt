@@ -1,0 +1,4 @@
+The code in this directory "svglib" is taken from DeepSVG: https://github.com/alexandre01/deepsvg/tree/master/deepsvg/svglib
+Slight modifications have been made, but generally this is still their work.
+
+Therefore, I included the MIT license in this folder.
