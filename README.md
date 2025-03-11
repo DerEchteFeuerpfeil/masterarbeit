@@ -5,6 +5,8 @@ The proposed adapted VQ-VAE is split into `models/vsq.py` ($VSQ$) and `models/st
 
 If you have questions or need more scripts to re-do some of the sweeps or experiments, feel free to open an issue.
 
+Read this work as a paper here: https://arxiv.org/abs/2410.05991
+
 # Installation
 ## Environment
 ```bash
